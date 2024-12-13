@@ -11,9 +11,7 @@
 
 - 🎓 I’m an Undergraduate **at SLIIT**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Web development**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 📫 How to reach me **thanujthilakarathne@gmail.com**
 
