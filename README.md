@@ -74,9 +74,10 @@
 ---
 
 ## 🎭 TryHackMe Stats:
-![TryHackMe Badge](./tryhackme-badge.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/thanuj23.png)
 
 Click [here](https://tryhackme.com/p/thanuj23) to visit my TryHackMe profile!
+
 
 ---
 
