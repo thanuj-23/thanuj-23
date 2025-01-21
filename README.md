@@ -66,14 +66,17 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=thanuj-23&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Thanuj's GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanuj-23&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-      </td>
     </tr>
   </table>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanuj-23&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
+---
+
+## 🎭 TryHackMe Stats:
+![TryHackMe Badge](./tryhackme-badge.png)
+
+Click [here](https://tryhackme.com/p/thanuj23) to visit my TryHackMe profile!
 
 ---
 
